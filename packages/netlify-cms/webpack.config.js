@@ -36,6 +36,7 @@ const baseConfig = {
     quiet: true,
     host: '0.0.0.0',
     port: devServerPort,
+    disableHostCheck: true,
   },
 };
 
